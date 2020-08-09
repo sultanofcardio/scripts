@@ -6,3 +6,4 @@ you find this sort of thing useful.
 ## Scripts
 
 * [Recursively convert https git URLs to SSH](bash/git-https-to-ssh)
+* [Recursively download SSL certificates for a host](bash/gencerts)
