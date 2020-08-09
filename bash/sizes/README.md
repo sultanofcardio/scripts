@@ -13,7 +13,7 @@ v - List the files in f (or current directory) instead of the directory itself
 
 Example:
 ```shell script
-sizes.sh -vf
+sizes.sh -v
 ```
 
 Output:
