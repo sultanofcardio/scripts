@@ -15,7 +15,7 @@ PEM|DER - The output file format. Defaults to X.509 PEM
 
 Example:
 ```shell script
-gencerts www.example.com
+gencerts.sh www.example.com
 ```
 
 Produces the following files:
