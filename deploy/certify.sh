@@ -126,6 +126,10 @@ server {
 
      location / {
         try_files \$uri \$uri/ =404;
+
+        types {
+           text/plain sh;
+        }
      }
 
      location ~ /.well-known {
