@@ -6,6 +6,6 @@ deploy:
   tags: [sultanofcardio.com]
   script:
     - chmod +x deploy/*.sh
-    - echo "${GITLAB_RUNNER_SUDO_PASSWORD}" | sudo -S ./deploy/deploy.sh
+    - echo "${GITLAB_RUNNER_SUDO_PASSWORD}" | sudo -SE ./deploy/deploy.sh
   only:
     - master
