@@ -8,3 +8,4 @@ you find this sort of thing useful.
 * [Recursively convert https git URLs to SSH](bash/git-https-to-ssh)
 * [Recursively download SSL certificates for a host](bash/gencerts)
 * [Print file sizes in human readable format](bash/sizes)
+* [Install/upgrade to the latest version of docker and docker-compose](bash/install-docker)
